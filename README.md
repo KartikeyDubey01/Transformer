@@ -3,6 +3,7 @@
 A deterministic, explainable pipeline that ingests candidate data from multiple heterogeneous sources and emits a single canonical profile per candidate, with full provenance and confidence tracking.
 
 ---
+**🎥 [Watch the 2-minute Demo Video](https://drive.google.com/file/d/1_Klf-nz0V-6DWCWyuJnje4GfSPL9AR_E/view?usp=drive_link)**
 
 ## Quick Start
 
