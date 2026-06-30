@@ -7,6 +7,8 @@ A deterministic, explainable pipeline that ingests candidate data from multiple 
 
 **🎓 [Watch the Full Explanation Video](https://drive.google.com/file/d/10jtnro-ERweggfj7fbDks2i0VjbVS35Q/view?usp=drive_link)**
 
+**📄 [Read the Technical Design Document (PDF)](https://drive.google.com/file/d/1qvQz_mGKVVTAg0BfjcEeNiV7azc4rd1F/view?usp=drive_link)**
+
 ## Quick Start
 
 ```bash
