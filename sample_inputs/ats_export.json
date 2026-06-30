@@ -1,0 +1,31 @@
+[
+  {
+    "applicant_name": "Priya Sharma",
+    "contact_email": "p.sharma@corp.com",
+    "employer": "Google",
+    "tech_skills": ["Python", "TensorFlow", "Kubernetes", "Go"],
+    "work_history": [
+      {"org": "Google", "from": "2021-03", "to": null},
+      {"org": "Flipkart", "from": "2018-06", "to": "2021-02"}
+    ],
+    "academic": [
+      {"school": "IIT Bombay", "degree": "B.Tech", "subject": "Computer Science", "year": "2018"}
+    ],
+    "years_exp": 6
+  },
+  {
+    "applicant_name": "Rahul Verma",
+    "contact_email": "rahul.v@outlook.com",
+    "tech_skills": ["PyTorch", "Python", "Transformers", "RLHF"],
+    "academic": [
+      {"school": "Stanford", "degree": "M.S.", "subject": "Artificial Intelligence", "year": "2022"}
+    ],
+    "years_exp": 3
+  },
+  {
+    "applicant_name": "ghost_entry_CORRUPT",
+    "contact_email": "not-an-email",
+    "mobile": "INVALID",
+    "years_exp": -99
+  }
+]

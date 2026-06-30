@@ -1,0 +1,18 @@
+{
+  "fields": [
+    { "path": "candidate_id", "type": "string" },
+    { "path": "full_name", "type": "string" },
+    { "path": "emails", "type": "array" },
+    { "path": "phones", "type": "array" },
+    { "path": "location", "type": "object" },
+    { "path": "links", "type": "object" },
+    { "path": "headline", "type": "string" },
+    { "path": "years_experience", "type": "number" },
+    { "path": "skills", "type": "array" },
+    { "path": "experience", "type": "array" },
+    { "path": "education", "type": "array" }
+  ],
+  "include_confidence": true,
+  "include_provenance": true,
+  "on_missing": "null"
+}

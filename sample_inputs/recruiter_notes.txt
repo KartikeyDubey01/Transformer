@@ -1,0 +1,12 @@
+Candidate: Priya Sharma
+She is a great candidate. Email: priya.sharma@gmail.com. Phone: +91 98765 43210.
+Check out her profile at linkedin.com/in/priyasharma
+skills: Python, TensorFlow, Kubernetes, distributed systems. 6 years experience.
+---
+Name: Vikram Singh
+Contact: vikram.s@protonmail.com, (555) 234-5678
+github.com/vikramdev
+Based in Austin TX, currently at Stripe as Senior Backend Engineer.
+Skills: Go/Rust/PostgreSQL, ~7-8 years of total experience. No LinkedIn.
+---
+This is just a corrupt block with some text but no useful data or name that matches the patterns. Let's see if it gets skipped gracefully.

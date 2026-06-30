@@ -1,0 +1,495 @@
+[
+  {
+    "candidate_id": "cand_86abd5bc07ae",
+    "full_name": "Priya Sharma",
+    "emails": [
+      "priya.sharma@gmail.com",
+      "p.sharma@corp.com"
+    ],
+    "phones": [
+      "+919876543210"
+    ],
+    "location": {
+      "city": "Bangalore",
+      "region": null,
+      "country": "India"
+    },
+    "links": {
+      "linkedin": "https://linkedin.com/in/priyasharma",
+      "github": "https://github.com/priyasharma",
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": 6.0,
+    "skills": [
+      {
+        "name": "Python",
+        "confidence": 1.0
+      },
+      {
+        "name": "Machine Learning",
+        "confidence": 0.5
+      },
+      {
+        "name": "TensorFlow",
+        "confidence": 1.0
+      },
+      {
+        "name": "Sql",
+        "confidence": 0.5
+      },
+      {
+        "name": "Docker",
+        "confidence": 0.5
+      },
+      {
+        "name": "Kubernetes",
+        "confidence": 0.75
+      },
+      {
+        "name": "Go",
+        "confidence": 0.5
+      }
+    ],
+    "experience": [
+      {
+        "company": "Google",
+        "title": "Senior Software Engineer",
+        "start": null,
+        "end": null,
+        "summary": null
+      },
+      {
+        "company": "Google",
+        "title": null,
+        "start": "2021-03",
+        "end": null,
+        "summary": null
+      },
+      {
+        "company": "Flipkart",
+        "title": null,
+        "start": "2018-06",
+        "end": "2021-02",
+        "summary": null
+      }
+    ],
+    "education": [
+      {
+        "institution": "IIT Bombay",
+        "degree": "B.Tech",
+        "field": "Computer Science",
+        "end_year": "2018"
+      }
+    ],
+    "overall_confidence": 0.95,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "emails",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "emails",
+        "source": "sample_inputs/ats_export.json",
+        "method": "ats_json"
+      },
+      {
+        "field": "phones",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "links.linkedin",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "links.github",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "location.city",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "location.country",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "years_experience",
+        "source": "sample_inputs/ats_export.json",
+        "method": "ats_json"
+      },
+      {
+        "field": "skills",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "skills",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "skills",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "skills",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "skills",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "skills",
+        "source": "sample_inputs/ats_export.json",
+        "method": "ats_json"
+      },
+      {
+        "field": "skills",
+        "source": "sample_inputs/ats_export.json",
+        "method": "ats_json"
+      },
+      {
+        "field": "skills",
+        "source": "sample_inputs/ats_export.json",
+        "method": "ats_json"
+      },
+      {
+        "field": "skills",
+        "source": "sample_inputs/ats_export.json",
+        "method": "ats_json"
+      },
+      {
+        "field": "skills",
+        "source": "sample_inputs/recruiter_notes.txt",
+        "method": "nlp_regex"
+      },
+      {
+        "field": "skills",
+        "source": "sample_inputs/recruiter_notes.txt",
+        "method": "nlp_regex"
+      },
+      {
+        "field": "skills",
+        "source": "sample_inputs/recruiter_notes.txt",
+        "method": "nlp_regex"
+      },
+      {
+        "field": "experience",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "experience",
+        "source": "sample_inputs/ats_export.json",
+        "method": "ats_json"
+      },
+      {
+        "field": "experience",
+        "source": "sample_inputs/ats_export.json",
+        "method": "ats_json"
+      },
+      {
+        "field": "education",
+        "source": "sample_inputs/ats_export.json",
+        "method": "ats_json"
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_125037a85745",
+    "full_name": "Rahul Verma",
+    "emails": [
+      "rahul.v@outlook.com"
+    ],
+    "phones": [
+      "+14155550192"
+    ],
+    "location": {
+      "city": "San",
+      "region": null,
+      "country": "USA"
+    },
+    "links": {
+      "linkedin": "https://linkedin.com/in/rahulverma",
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": 3.0,
+    "skills": [
+      {
+        "name": "PyTorch",
+        "confidence": 0.75
+      },
+      {
+        "name": "Natural Language Processing",
+        "confidence": 0.5
+      },
+      {
+        "name": "Python",
+        "confidence": 0.75
+      },
+      {
+        "name": "AWS",
+        "confidence": 0.5
+      },
+      {
+        "name": "Transformers",
+        "confidence": 0.5
+      },
+      {
+        "name": "Rlhf",
+        "confidence": 0.5
+      }
+    ],
+    "experience": [
+      {
+        "company": "OpenAI",
+        "title": "ML Engineer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [
+      {
+        "institution": "Stanford",
+        "degree": "M.S.",
+        "field": "Artificial Intelligence",
+        "end_year": "2022"
+      }
+    ],
+    "overall_confidence": 0.85,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "emails",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "phones",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "links.linkedin",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "location.city",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "location.country",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "years_experience",
+        "source": "sample_inputs/ats_export.json",
+        "method": "ats_json"
+      },
+      {
+        "field": "skills",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "skills",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "skills",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "skills",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "skills",
+        "source": "sample_inputs/ats_export.json",
+        "method": "ats_json"
+      },
+      {
+        "field": "skills",
+        "source": "sample_inputs/ats_export.json",
+        "method": "ats_json"
+      },
+      {
+        "field": "skills",
+        "source": "sample_inputs/ats_export.json",
+        "method": "ats_json"
+      },
+      {
+        "field": "skills",
+        "source": "sample_inputs/ats_export.json",
+        "method": "ats_json"
+      },
+      {
+        "field": "experience",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "education",
+        "source": "sample_inputs/ats_export.json",
+        "method": "ats_json"
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_d1e62a0a200a",
+    "full_name": "Riya Mehta",
+    "emails": [],
+    "phones": [
+      "+447911123456"
+    ],
+    "location": {
+      "city": "London",
+      "region": null,
+      "country": "UK"
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": null,
+        "title": "Data Scientist",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "overall_confidence": 0.55,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "phones",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "location.city",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "location.country",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      },
+      {
+        "field": "experience",
+        "source": "sample_inputs/recruiter.csv",
+        "method": "csv_row"
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_1d130048edb0",
+    "full_name": "Vikram Singh",
+    "emails": [
+      "vikram.s@protonmail.com"
+    ],
+    "phones": [],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": "https://github.com/vikramdev",
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": 8.0,
+    "skills": [
+      {
+        "name": "Go",
+        "confidence": 0.5
+      },
+      {
+        "name": "PostgreSQL",
+        "confidence": 0.5
+      }
+    ],
+    "experience": [],
+    "education": [],
+    "overall_confidence": 0.45,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "sample_inputs/recruiter_notes.txt",
+        "method": "nlp_regex"
+      },
+      {
+        "field": "emails",
+        "source": "sample_inputs/recruiter_notes.txt",
+        "method": "nlp_regex"
+      },
+      {
+        "field": "links.github",
+        "source": "sample_inputs/recruiter_notes.txt",
+        "method": "nlp_regex"
+      },
+      {
+        "field": "years_experience",
+        "source": "sample_inputs/recruiter_notes.txt",
+        "method": "nlp_regex"
+      },
+      {
+        "field": "skills",
+        "source": "sample_inputs/recruiter_notes.txt",
+        "method": "nlp_regex"
+      },
+      {
+        "field": "skills",
+        "source": "sample_inputs/recruiter_notes.txt",
+        "method": "nlp_regex"
+      }
+    ]
+  }
+]

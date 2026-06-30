@@ -1,0 +1,4 @@
+name,email,phone,current_company,title,location,linkedin,github,skills
+Priya Sharma,priya.sharma@gmail.com,+91-9876543210,Google,Senior Software Engineer,Bangalore India,https://linkedin.com/in/priyasharma,https://github.com/priyasharma,"Python,Machine Learning,TensorFlow,SQL,Docker"
+Rahul Verma,rahul.v@outlook.com,001-415-555-0192,OpenAI,ML Engineer,San Francisco CA USA,https://linkedin.com/in/rahulverma,,PyTorch|NLP|Python|AWS
+Riya Mehta,,+44 7911 123456,,Data Scientist,London UK,,,
