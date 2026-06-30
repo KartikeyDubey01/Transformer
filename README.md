@@ -5,6 +5,8 @@ A deterministic, explainable pipeline that ingests candidate data from multiple 
 ---
 **🎥 [Watch the 2-minute Demo Video](https://drive.google.com/file/d/1_Klf-nz0V-6DWCWyuJnje4GfSPL9AR_E/view?usp=drive_link)**
 
+**🎓 [Watch the Full Explanation Video](https://drive.google.com/file/d/10jtnro-ERweggfj7fbDks2i0VjbVS35Q/view?usp=drive_link)**
+
 ## Quick Start
 
 ```bash
